@@ -772,7 +772,7 @@ body.show::before{
         height: auto;
     }
     .showcase{
-        height: 65vh;
+        height: 80vh;
         padding-top: 15px;
     }
     .showcase h1{
