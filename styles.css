@@ -867,7 +867,7 @@ body.show::before{
         padding: 6PX 15PX;
     }
     .form{
-        left: 7rem;
+        left: 3rem;
         height: auto;
         max-width: 280px;
         max-height: 400px;
